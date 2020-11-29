@@ -1,4 +1,4 @@
-# Django-Test
+## Django-Test
 
 **Version 0.0.1** - [Changelog](CHANGELOG.md)
 
