@@ -29,8 +29,10 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+# Delete or comment out any of the installed apps that you do not require.
+# Run the selected apps in the terminal with '$ python manage.py migrate'
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -74,16 +76,16 @@ WSGI_APPLICATION = 'Odin.wsgi.application'
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 DATABASES = {
-    'default': {
+    'default': { # Change 'default' to other database that you are using e.g. 'django.db.backends.postgresql' if postgresql installed
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3', # Change 'db.sqlite3' to the name that your database is called the installed database that is outside of Django
     }
 }
 
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
-
+# Add user, password, host of database used if not running default Django SQLite
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
