@@ -7,6 +7,7 @@ Added extra practice pages away from the Django documentation
 **Added:**
 - About us page added
 - Members area page added
+- date time added to homepage
 
 ## v0.0.3 - Dec. 13, 2020
 
