@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.0.4 - Dec. 15, 2020
+
+Added extra practice pages away from the Django documentation
+
+**Added:**
+- About us page added
+- Members area page added
+
 ## v0.0.3 - Dec. 13, 2020
 
 Run through of Django documentation (2.4)
