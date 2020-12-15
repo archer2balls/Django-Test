@@ -7,7 +7,7 @@ This is a work in progress and for producing a full stack web development using 
 Start with creation of readme, licence and changelog as well as beginning with the project
 
 Packages
-Django 3.1.3
+Django 3.1.4
 
 ---
 
