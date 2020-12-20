@@ -1,6 +1,6 @@
 ## Django-Test
 
-**Version 0.0.4** - [Changelog](CHANGELOG.md)
+**Version 0.0.5** - [Changelog](CHANGELOG.md)
 
 This is a work in progress and for producing a full stack web development using Django.
 

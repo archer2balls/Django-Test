@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.0.5 - Dec. 15, 2020
+
+Run through of Django documentation (2.4 - 2.5)
+
+**Added:**
+- Superusers (2.4.5)
+- more views added (2.5.2)
+- date time added to homepage
+
 ## v0.0.4 - Dec. 15, 2020
 
 Added extra practice pages away from the Django documentation
