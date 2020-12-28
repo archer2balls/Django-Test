@@ -1,8 +1,30 @@
 # Changelog
 
+## v0.0.7 - Dec. 23, 2020
+
+Run through of Django documentation (2.6 - 2.6)
+
+**Added:**
+- Write a minimal form (2.6.1)
+- Use generic views: Less code is better (2.6.2)
+- Removing hardcoded URLs in templates (2.5.6)
+- Name spacing URL names (2.5.7)
+- Write a minimal form (2.6.1)
+
+## v0.0.6 - Dec. 23, 2020
+
+Run through of Django documentation (2.5.4 - 2.6)
+
+**Added:**
+- Raising a 404 error (2.5.4)
+- Use the template system (2.5.5)
+- Removing hardcoded URLs in templates (2.5.6)
+- Name spacing URL names (2.5.7)
+- Write a minimal form (2.6.1)
+
 ## v0.0.5 - Dec. 15, 2020
 
-Run through of Django documentation (2.4 - 2.5.4)
+Run through of Django documentation (2.4 - 2.5.3)
 
 **Added:**
 - Superusers (2.4.5)
